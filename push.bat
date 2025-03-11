@@ -2,4 +2,4 @@ git add .
 git commit -m "AutoPush"
 git push
 
-timeout 15
+timeout 5
